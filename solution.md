@@ -62,8 +62,7 @@ egrep -R '((Joe Germuska)|(Brian Boyer)|(Mike Bostock)|(Jeremy Bowers)|(John Kee
 # JB, it is JB
 ```
 
-###########################################
-
+```
 cd ga
 git clone https://github.com/ATL-WDI-Exercises/command-line-mystery.git
 
@@ -212,5 +211,5 @@ Museum_of_Bash_History:Jeremy Bowers
 Terminal_City_Library:Jeremy Bowers
 
 Jeremy Bowers committed the crime
-
+```
 
